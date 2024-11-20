@@ -1,0 +1,8 @@
+.custom-segmented .ant-segmented-item {
+    width: 150px; /* Har bir elementga kenglik beriladi */
+    text-align: center; /* Matnni markazlash */
+  }  
+.custom-segmented2 .ant-segmented-item {
+    width: 100px; /* Har bir elementga kenglik beriladi */
+    text-align: center; /* Matnni markazlash */
+  }  

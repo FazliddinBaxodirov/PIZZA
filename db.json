@@ -1,0 +1,116 @@
+{
+    "categories": [
+     {
+      "id":"1",
+      "name":"Все",
+      "isActive":true
+     },
+     {
+      "id":"2",
+      "name":"Мясные",
+      "isActive":false
+     },
+     {
+      "id":"3",
+      "name":"Вегетарианская",
+      "isActive":false
+     },
+     {
+      "id":"4",
+      "name":"Гриль",
+      "isActive":false
+     },
+     {
+      "id":"5",
+      "name":"Острые",
+      "isActive":false
+     },
+     {
+      "id":"6",
+      "name":"Закрытые",
+      "isActive":false
+     }
+    ],  
+    "products":[
+         {
+          "id":"1",
+          "img":"https://img.freepik.com/free-photo/meat-chicken-mushrooms-pizza-isolated-white-background-top-view-photo-menu_639032-224.jpg?ga=GA1.1.1196636176.1726595256&semt=ais_hybrid",
+          "title":"Чизбургер-пицца",
+          "typeID":"0",
+          "sizeId":"2",
+          "price":"от 395 ₽",
+          "savedCount":"0",
+          "categoryId":"1"
+         },
+         {
+          "id":"2",
+          "img":"https://img.freepik.com/free-psd/top-view-delicious-pizza_23-2151868898.jpg?ga=GA1.1.1196636176.1726595256&semt=ais_hybrid",
+          "title":"Сырная",
+          "typeID":"1",
+          "sizeId":"1",
+          "price":"от 450 ₽",
+          "savedCount":"0",
+          "categoryId":"2"
+         },
+         {
+          "id":"3",
+          "img":"https://img.freepik.com/free-psd/top-view-delicious-pizza_23-2151868914.jpg?ga=GA1.1.1196636176.1726595256&semt=ais_hybrid",
+          "title":"Креветки по-азиатски",
+          "typeID":"0",
+          "sizeId":"3",
+          "price":"от 290 ₽",
+          "savedCount":"0",
+          "categoryId":"3"
+         },
+         {
+          "id":"4",
+          "img":"https://img.freepik.com/premium-photo/isolated-pizza-with-mushrooms-tomatoes_219193-8122.jpg?ga=GA1.1.1196636176.1726595256&semt=ais_hybrid",
+          "title":"Сырный цыпленок",
+          "typeID":"0",
+          "sizeId":"2",
+          "price":"от 385 ₽",
+          "savedCount":"0",
+          "categoryId":"4"
+         },
+         {
+          "id":"5",
+          "img":"https://img.freepik.com/free-psd/top-view-delicious-pizza_23-2151868966.jpg?ga=GA1.1.1196636176.1726595256&semt=ais_hybrid",
+          "title":"Вегетарианская",
+          "typeID":"0",
+          "sizeId":"2",
+          "price":"от 385 ₽",
+          "savedCount":"0",
+          "categoryId":"2"
+         },
+         {
+          "id":"6",
+          "img":"https://img.freepik.com/premium-photo/fresh-pizza-wooden-board-isolated-white_93675-112365.jpg?ga=GA1.1.1196636176.1726595256&semt=ais_hybrid",
+          "title":"Сырный цыпленок",
+          "typeID":"0",
+          "sizeId":"2",
+          "price":"от 385 ₽",
+          "savedCount":"0",
+          "categoryId":"1"
+         },
+         {
+          "id":"7",
+          "img":"https://img.freepik.com/free-psd/top-view-delicious-pizza_23-2151868964.jpg?ga=GA1.1.1196636176.1726595256&semt=ais_hybrid",
+          "title":"Мясные",
+          "typeID":"0",
+          "sizeId":"2",
+          "price":"от 385 ₽",
+          "savedCount":"0",
+          "categoryId":"6"
+         },
+         {
+          "id":"8",
+          "img":"https://img.freepik.com/premium-photo/pizza-with-four-fillings-spicy-cervelat-juicy-chicken-tomatoes-mozzarella-cheese-mushrooms-tomato-sauce-view-from-white-background-isolated_323569-198.jpg?ga=GA1.1.1196636176.1726595256&semt=ais_hybrid",
+          "title":"Сырный цыпленок",
+          "typeID":"0",
+          "sizeId":"2",
+          "price":"385 ₽",
+          "savedCount":"0",
+          "categoryId":"5"
+         }
+    ]
+  }
